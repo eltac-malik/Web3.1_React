@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import { CardActionArea } from '@mui/material';
 
-import eziz from '../Chars.module.css'
+ import eziz from '../Chars.module.css'
 
 export default function Char({ item }) {
     return (
